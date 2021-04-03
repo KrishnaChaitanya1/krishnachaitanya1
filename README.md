@@ -10,4 +10,4 @@ I am Krishna Chaitanya and this is a sample README which I am testing for my pro
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaChaitanya1&theme=light&hide_langs_below=1" />
 </a>
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaChiatanya1)](https://github.com/anuraghazra/github-readme-stats)
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaChaitanya1)](https://github.com/anuraghazra/github-readme-stats)
