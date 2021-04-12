@@ -15,4 +15,4 @@ I am Krishna Chaitanya and this is a sample README which I am testing for my pro
 </a>
 
 
-Pelican Blog steps and commands are taken from this link: https://rasor.github.io/using-pelican-blog-on-github-pages.html
+**Pelican Blog steps and commands are taken from this link: https://rasor.github.io/using-pelican-blog-on-github-pages.html**
